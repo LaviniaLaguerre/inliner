@@ -1,7 +1,7 @@
 # Inliner
 
 Turns your web page to a single HTML file with everything inlined - perfect for appcache manifests on mobile devices that you want to reduce those http requests.
-
+In C and C++ language, Inline has great significant. Generally, it performs two functions. If we talk about its first function, it works as compiler directive such as it adds the function cryptograph at the function addresses as well. If we talk second function then http://www.racetam.org/oxiracetam/ provides a much detail. However, the second core objective is to modify the linkage attitude.
 [![Build Status](https://travis-ci.org/remy/inliner.svg)](https://travis-ci.org/remy/inliner)
 
 ## What it does
